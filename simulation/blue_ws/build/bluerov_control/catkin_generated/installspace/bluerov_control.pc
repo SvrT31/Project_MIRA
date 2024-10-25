@@ -1,0 +1,8 @@
+prefix=/home/svrt_31/ardusub/blue_ws/install
+
+Name: bluerov_control
+Description: Description of bluerov_control
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lbluerov_control
+Requires: cv_bridge gazebo_msgs image_transport roscpp rospy sensor_msgs std_msgs

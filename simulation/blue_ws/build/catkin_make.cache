@@ -1,0 +1,2 @@
+bluerov-ros-pkg:bluerov_control:bluerov_ros_playground:freefloating_gazebo:freefloating_gazebo_demo
+-DCATKIN_DEVEL_PREFIX=/home/svrt_31/ardusub/blue_ws/devel -DCMAKE_INSTALL_PREFIX=/home/svrt_31/ardusub/blue_ws/install -G Unix Makefiles

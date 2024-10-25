@@ -1,0 +1,8 @@
+prefix=/home/svrt_31/ardusub/blue_ws/devel
+
+Name: bluerov-ros-pkg
+Description: Description of bluerov-ros-pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

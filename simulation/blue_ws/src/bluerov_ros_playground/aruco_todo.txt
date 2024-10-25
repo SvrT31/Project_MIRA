@@ -1,0 +1,20 @@
+New commands to run
+
+1) Open a new terminal
+
+cd ~/ardusub/ardupilot/ArduSub
+source ~/.bashrc
+sim_vehicle.py -f gazebo-bluerov2 -I 0 -j4 -D -L RATBeach --console
+(SITL is now running)
+
+2) View the world in Gazebo
+
+cd ~/ardusub/blue_ws/src/bluerov_ros_playground
+source gazebo.sh
+gazebo --verbose worlds/underwater.world -u
+CLICK ON PLAY at the bottom left of the Gazebo GUI
+
+3) Use the Mavros package 
+
+source ~/ardusub/blue_ws/devel/setup.bash
+roslaunch bluerov_ros_playground apm.launch fcu_url:=udp://127.0.0.1:14550@

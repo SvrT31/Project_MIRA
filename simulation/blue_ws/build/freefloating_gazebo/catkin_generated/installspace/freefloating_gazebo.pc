@@ -1,0 +1,8 @@
+prefix=/home/svrt_31/ardusub/blue_ws/install
+
+Name: freefloating_gazebo
+Description: Description of freefloating_gazebo
+Version: 1.1.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lfreefloating_gazebo -lffg_pid
+Requires: roscpp std_msgs std_srvs gazebo_msgs geometry_msgs sensor_msgs control_toolbox rostime nav_msgs message_runtime
