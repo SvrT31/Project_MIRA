@@ -11,12 +11,12 @@ Working Video of the AUV:
 
 https://github.com/user-attachments/assets/b7fa46eb-da0d-4e83-b95d-ef5d0851824a
 
-3) Recording fromt he Front of the swimming pool at TAC Norway 2024 -
+3) Recording from the Front of the swimming pool at TAC Norway 2024 -
 
+https://github.com/user-attachments/assets/fc82b694-6c74-4392-aa42-76a5f0b7ede9
 
 4) Winning announcement video -
 
-   
 https://github.com/user-attachments/assets/79d9bfad-fb6a-4eff-8472-575cdad46a14
 
 
