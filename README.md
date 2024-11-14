@@ -6,16 +6,16 @@ The simulation code is for training the AUV in ROS Gazebo simulator with ArduSub
 
 This repository contains the code used in the development and training of Dreadnought Robotic's ' "Mira" AUV. This robot secured 2nd rank among 13 international teams at TAC Norway 2024.
 
-## Working Video of the AUV:
+## Working Videos of the AUV:
 1) Recording from the Top of the swimming pool at TAC Norway 2024 -
 
 https://github.com/user-attachments/assets/b7fa46eb-da0d-4e83-b95d-ef5d0851824a
 
-3) Recording from the Front of the swimming pool at TAC Norway 2024 -
+2) Recording from the Front of the swimming pool at TAC Norway 2024 -
 
 https://github.com/user-attachments/assets/fc82b694-6c74-4392-aa42-76a5f0b7ede9
 
-4) Winning announcement video -
+### Winning announcement video -
 
 https://github.com/user-attachments/assets/79d9bfad-fb6a-4eff-8472-575cdad46a14
 
