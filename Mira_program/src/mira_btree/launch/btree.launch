@@ -1,0 +1,3 @@
+<launch>
+    <node name = "btree_node" pkg = "btree_test" type = "btree" output = "screen"/>
+</launch>

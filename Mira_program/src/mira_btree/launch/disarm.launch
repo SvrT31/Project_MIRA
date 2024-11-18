@@ -1,0 +1,3 @@
+<launch>
+    <node name = "disarm_node" pkg = "btree_test" type = "disarm" output = "screen"/>
+</launch>

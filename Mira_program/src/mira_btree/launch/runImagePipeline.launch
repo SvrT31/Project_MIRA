@@ -1,0 +1,3 @@
+<launch>
+    <node name = "runImagePipeline_node" pkg = "btree_test" type = "runImagePipeline" output = "screen"/>
+</launch>
