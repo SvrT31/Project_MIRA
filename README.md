@@ -1,6 +1,6 @@
 # Project_MIRA
 
-This repository contains the code used in the development and training of Dreadnought Robotic's ' "Mira" AUV. This robot secured 2nd rank among 13 international teams at TAC Norway 2024.
+This repository contains the code used in the development and training of Dreadnought Robotics' "Mira" AUV. This robot secured 2nd rank among 13 international teams at TAC Norway 2024.
 
 The simulation code is for training the AUV in ROS Gazebo simulator with ArduSub SITL. How to download and run the simulator has been given in the READme.md file inside simulation directory. 'Mira_program' is the actual working code which was deployed in the AUV. The videos of its working are shown below.
 
