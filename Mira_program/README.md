@@ -1,7 +1,3 @@
-# Project MIRA
-
-This repository contains the ROS packages for the AUV2024 Dreadnought Autonomous Underwater Vehicle (AUV) project. The project aims to develop a robust and capable AUV for various underwater missions.
-
 ## Overview
 
 - **Docker**:
